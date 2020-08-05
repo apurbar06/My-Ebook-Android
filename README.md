@@ -1,7 +1,7 @@
 # My Ebook (Android application)
 
 ## Download latest version
-https://github.com/apurbar06/My-Ebook-Android/raw/master/my%20Ebook.apk
+https://github.com/apurbar06/My-Ebook-Android/raw/master/My%20Ebook%201.0.apk
 
 
 #### Collect Read Contribute
