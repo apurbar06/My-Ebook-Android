@@ -11,4 +11,7 @@ Finding study materials here and there is a boring task. Sometimes we may unable
 
 This is an application based on *android* which provides you a common platform for all your study materials. Find what you need and contribute what you have which may help others. However, as of now this is only for **IIITD&M Kancheepuram**.
 
+![alt text](https://github.com/apurbar06/My-Ebook-Android/issues/1#issue-673340408)
+
+
 So what are you waiting for. Just click the link mentioned above, get the app and explore. 
