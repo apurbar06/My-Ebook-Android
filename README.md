@@ -1,16 +1,10 @@
 # My Ebook (Android application)
 
-
-<br/><br/>
 ## Download the latest version
 https://github.com/apurbar06/My-Ebook-Android/raw/master/Apk%20files/My%20Ebook%201.0.apk
 
-## Find the source code here
-https://github.com/apurbar06/My-Ebook
-<br/><br/><br/><br/>
 
-
-#### Collect Read Contribute
+#### Collect, Read, Contribute
 Finding study materials here and there is a boring task. Sometimes we may unable to find out our required file or maybe it doesn't exist in online (eg. lecture slides, notes etc).
 
 ***Here is the solution***
