@@ -13,7 +13,7 @@ This is an application based on *android* which provides you a common platform f
 
 
 
-<img src = "Images/First image.jpg">
+<img src = "Images/First image.jpg" hight=600>
 
 <img src = "Images/Second Image.jpg">
 
