@@ -11,7 +11,7 @@ Finding study materials here and there is a boring task. Sometimes we may unable
 
 This is an application based on *android* which provides you a common platform for all your study materials. Find what you need and contribute what you have which may help others. However, as of now this is only for **IIITD&M Kancheepuram**.
 
-![WhatsApp Image 2020-07-21 at 4 11 11 PM](https://user-images.githubusercontent.com/55590340/89387361-002b8980-d720-11ea-841e-2bb06e3ef8e1.jpeg)
+<img src = "Images/First image.jpg">
 
 
 So what are you waiting for. Just click the link mentioned above, get the app and explore. 
