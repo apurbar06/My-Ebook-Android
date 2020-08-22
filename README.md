@@ -2,7 +2,7 @@
 
 <br/><br/>
 ## Download the latest version
-https://github.com/apurbar06/My-Ebook-Android/raw/master/Apk%20files/My%20Ebook%201.0.apk
+https://github.com/apurbar06/My-Ebook-Android/raw/master/Apk%20files/My%20ebook%201.0.apk
 
 ## Find the source code here
 https://github.com/apurbar06/My-Ebook
